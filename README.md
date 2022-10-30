@@ -2,7 +2,7 @@
 
 simple flask app which gets nft metadata given the address of nft
 
-#simple flask app which gets nft metadata given the address of nft
+# simple flask app which gets nft metadata given the address of nft
 
 you need to install python 3 https://www.python.org/downloads/
 
@@ -10,7 +10,7 @@ after that install flask using pip install flask
 
 next you have to install requests and flask_sqlalchemy
 
-#usage
+# usage
 
 1)launch flask web app
 
@@ -18,7 +18,7 @@ next you have to install requests and flask_sqlalchemy
 3)provide nft address (you can get it from solanart using the link on that page)
 4)get the results
 
-#example
+# example
 enter 3LZ9ezL5BkCtvdVGLkrw1q633EgfeYDpgGtBgWDgmaSU as an adress and get tne following result:
 
 {"mint":"3LZ9ezL5BkCtvdVGLkrw1q633EgfeYDpgGtBgWDgmaSU","standard":"metaplex","name":"Baby Yetis #257","symbol":"","metaplex":
